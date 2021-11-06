@@ -15,7 +15,7 @@ Cài đặt java, Eclipse và project java 'iot_lab_01'
 #### Bước 1
 Chọn subcribe các topic 'test/sub' và 'test/pub' ở MQTTBox client
 
-### Bước 2
+#### Bước 2
 Chạy chương trình Java và quan sát bản tin được gửi đi đã được nhận ở MQTTBox client
 
 #### Bước 3
