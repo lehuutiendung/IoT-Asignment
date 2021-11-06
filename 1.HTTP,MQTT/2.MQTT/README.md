@@ -4,10 +4,10 @@
 ### Tạo client
 #### Cài đặt MQTTBox và tạo client
 Cài đặt tiện ích mở rộng MQTTBox trên GoogleChrome\
-<img src="setup_client_mqttbox.png">\
 Tạo mới client trên MQTTBox\
-<img src="publish_subcribe_mqttbox.png">\
-Đăng ký publish và subcribe trên MQTTBox
+<img src="setup_client_mqttbox.png">\
+Đăng ký publish và subcribe trên MQTTBox\
+<img src="publish_subcribe_mqttbox.png">
 #### Cài đặt chương trình java và tạo client
 Cài đặt java, Eclipse và project java 'iot_lab_01'
 
